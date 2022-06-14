@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 1.3rem;
+  }
+.card{
+    height: fit-content;
+    width: fit-content;
+    border: 2px;
+    padding: 5%;
+    border-radius: 2%;
+    column-gap: 50px;
+}
